@@ -86,6 +86,9 @@ public class FirstFactorial {
      */
     private static int factorial(int num) {
         // Code goes here
+	if(int <=55 || >=5)
+	system.out.println("the number is less than 55 but greater than 5");
+	}else
         return -1;
     }
     
